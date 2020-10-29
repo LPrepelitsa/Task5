@@ -4,5 +4,5 @@ public class Main {
     }
 
     public void thirdMethod(){}
-    public void fourthMethod(){}
+
 }
